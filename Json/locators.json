@@ -1,0 +1,13 @@
+{
+  "Login":
+  {
+    "LoingLink": "://a[@href='/index.php?option=com_users&view=login&Itemid=587']",
+    "userNameButton": "://input[@name='username']",
+    "passwordButtonId": ":password",
+    "RememberMeCheckboxId": "remember",
+    "LoginButton": "://button[@type='submit']",
+    "forgotPasswordLink": "",
+    "ForgotUserNameLink": "",
+    "Don'tHaveanAccountLink": ""
+  }
+}
